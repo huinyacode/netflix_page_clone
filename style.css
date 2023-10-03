@@ -1,0 +1,13 @@
+.discord-button {
+    background-color: #7289DA;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+.discord-button:hover {
+    background-color: #677BC4;
+}
